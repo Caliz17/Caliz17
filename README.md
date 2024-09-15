@@ -1,4 +1,4 @@
-# ¡Hola! 👋, soy Isaac Cáliz:
+# ¡Hola! 👋, soy Isaac Cáliz
 Desarrollador de software de Guatemala 🇬🇹
 
 📚 Estudiante de Ingeniería de Sistemas, apasionado por aprender nuevas tecnologías y mejorar continuamente mis habilidades en desarrollo.
